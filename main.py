@@ -144,8 +144,6 @@ def move():
                             grid[i][x - 1] = grid[i][x]
                             grid[i][x] = 0
 
-
-
                 j-=1
 
 #This function checks if the direction have state reachs 2048 or not
